@@ -23,4 +23,5 @@ int main()
         cin>>array[idx];
     }
     even_count(array,num_elements);
+    return 0;
 }

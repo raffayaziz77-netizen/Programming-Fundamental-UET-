@@ -13,4 +13,5 @@ int main()
         sum+=array[idx];
     }
     cout<<"Sum of all elements: "<<sum;
+    return 0;
 }

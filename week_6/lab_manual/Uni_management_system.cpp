@@ -96,4 +96,5 @@ int main()
             cout<<"Wrong username or password\n";
         }
     }
+    return 0;
 }

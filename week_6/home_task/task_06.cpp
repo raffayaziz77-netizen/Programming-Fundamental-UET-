@@ -29,4 +29,5 @@ int main()
     {
         cout<<array[i]<<" \n";
     }
+    return 0;
 }

@@ -14,4 +14,5 @@ int main()
     {
         cout<<"Student "<<i+1<<": "<<array[i]<<endl;
     }
+    return 0;
 }

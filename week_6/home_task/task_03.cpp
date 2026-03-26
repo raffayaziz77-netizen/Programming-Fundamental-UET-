@@ -24,4 +24,5 @@ int main()
     }
     cout<<"largest number: "<<largest<<endl;
     cout<<"smallest number: "<<smallest<<endl;
+    return 0;
 }

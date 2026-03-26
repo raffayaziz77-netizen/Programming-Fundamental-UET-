@@ -22,4 +22,5 @@ int main()
         }
     }
     cout<<"Total names starting with '"<<alphabet<<"': "<<count;
+    return 0;
 }

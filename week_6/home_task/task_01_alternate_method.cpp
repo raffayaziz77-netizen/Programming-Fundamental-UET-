@@ -20,4 +20,5 @@ int main()
         cin>>array[idx];
     }
     sum(array,i);
+    return 0;
 }

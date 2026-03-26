@@ -17,4 +17,5 @@ int main()
         
     }
     cout<<"Total even numbers: "<<even;
+    return 0;
 }
