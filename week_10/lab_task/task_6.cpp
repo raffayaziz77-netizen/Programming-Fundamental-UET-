@@ -21,5 +21,5 @@ int main(){
     else{
         cout<<a<<" is small.";
     }
-     
+    return 0;
 }

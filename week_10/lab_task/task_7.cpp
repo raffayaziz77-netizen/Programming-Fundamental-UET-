@@ -26,5 +26,5 @@ int main(){
     else{
         cout<<n<<" is not symmetric.";
     }
-     
+    return 0;
 }

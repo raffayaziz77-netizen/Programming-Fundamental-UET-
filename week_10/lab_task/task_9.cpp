@@ -21,5 +21,5 @@ int main(){
     int minutes;
     cin>>minutes;
     cout<<time_travel(hours,minutes);
- 
+    return 0;
 }

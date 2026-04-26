@@ -21,5 +21,5 @@ int main(){
     else{
         cout<<n<<" is oddish.";
     }
-     
+    return 0; 
 }

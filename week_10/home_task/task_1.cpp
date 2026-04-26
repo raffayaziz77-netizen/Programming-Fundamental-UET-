@@ -16,4 +16,5 @@ int main()
   x = 20;
   value2 = sum();
   cout << value1 << " " << value2;
+  return 0;
 }

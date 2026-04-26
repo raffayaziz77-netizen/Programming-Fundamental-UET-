@@ -6,6 +6,7 @@ int main(){
     cout<<"Enter vehical type code (M/E/S/V/T): ";cin>>choice;
     cout<<"Enter vehical price: ";cin>>price;
     cout<<"The final price on vehical type "<<choice<<" after adding tax: "<<price_calc(price,choice);
+    return 0;
 }
 float price_calc(float price,char choice)
 {
